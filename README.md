@@ -44,9 +44,17 @@ The prices in gold are considered for the weapon without any modification (forge
 ANALYZE :
 The analysis steps are processed in the file : Skyrim_Weapons_DA_01112023_V0.ipynb
 This jupyter Notebook reveals all the cleaning, manipulations, analysis, vizualisation steps performed.
-It will be tranferred to a kaggle notebook code to fill my portfolio.
+It will be transferred to a kaggle notebook code and alsot to a Github to fill my portfolio.
 
-Datasets features : 
+Metadata:
+
+- Collaborators: ElMartian (Owner)
+- Sources/Provenance: https://elderscrolls.fandom.com/wiki/Weapons_(Skyrim)
+- Collection Methodology: Used a script
+- License: CC0: Public Domain
+- Expected Update Frequency: Never (Updated 2 years ago)
+
+Datasets features :
 
 - Number of columns : 9
 - Number of rows : 293
